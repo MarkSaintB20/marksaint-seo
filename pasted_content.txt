@@ -1,0 +1,223 @@
+Segue o prompt revisado, já adaptado para a MarkSaint SEO e com as correções de posicionamento dos clientes e da sua formação.
+
+Quero que você publique e ajuste o site institucional da minha agência MarkSaint SEO a partir de um arquivo .zip que já possuo, reorganizando a estrutura de pastas e atualizando o conteúdo conforme as instruções abaixo. O foco é ter um site de agência de SEO com portfólio forte, blog otimizado e estrutura hierárquica clara.​
+
+1. Contexto da agência e do site
+Agência: MarkSaint SEO.
+
+Profissional responsável: Marco Antonio Claro Santos, analista de SEO e especialista em curadoria de conteúdo.
+
+Formação: graduação em Filosofia pela PUC-SP (incluir esta informação na página Sobre, reforçando visão crítica, pensamento analítico e capacidade de diagnóstico estratégico).
+
+Objetivo do site: posicionar a MarkSaint SEO como especialista em auditoria técnica, arquitetura de conteúdo, correção de problemas críticos (como malwares) e SEO para B2B e negócios locais, com foco em decisores (C-level, gerentes).​
+
+2. Estrutura de diretórios e URLs
+Reorganize o site para seguir uma estrutura de subpastas hierárquica, amigável para SEO:
+
+Página inicial (home): /
+
+Página Sobre: /sobre/
+
+Página de Serviços: /servicos/
+
+Página de Cases de Sucesso (listagem): /cases/
+
+Páginas individuais de case:
+
+361 Sport: /cases/361-sport/
+
+Espaço MIND: /cases/espaco-mind/
+
+PLMX: /cases/plmx/
+
+Mangini Russo Advogados: /cases/mangini-russo-advogados/
+
+B20 Conteúdo Digital: /cases/b20-conteudo-digital/
+
+Blog (listagem): /blog/
+
+Artigos individuais do blog em subpastas próprias, por exemplo: /blog/seo-para-escritorios-advocacia/ etc.​
+
+Garanta que cada diretório principal tenha o index.html adequado e que o menu/nav e todos os links internos sejam atualizados para essas novas URLs.​
+
+3. Conteúdo dos cases de sucesso
+Criar uma página de listagem em /cases/ e páginas detalhadas para cada cliente, sempre com estrutura de estudo de caso orientada a resultado e SEO. Não inventar métricas além das que eu informar; onde não houver números, use benefícios qualitativos.​
+
+3.1. 361 Sport – Auditoria SEO para e-commerce de tênis esportivos
+
+Tipo de cliente: marca de tênis esportivos muito famosa, com presença em bolsa de valores (descrever de forma institucional, sem citar bolsa específica).
+
+Site: e-commerce de tênis esportivos de alta visibilidade.
+
+Trabalho realizado:
+
+Auditoria SEO completa (técnica, on-page e oportunidades de conteúdo).
+
+Identificação de gargalos de indexação, performance e estrutura de categorias/produtos.
+
+Resultado (descrever qualitativamente):
+
+Base técnica mais sólida para escalar SEO.
+
+Melhor organização de categorias e filtros, favorecendo ranqueamento de páginas de produto e coleções.
+
+3.2. Espaço MIND – SEO para locação de espaços
+
+Tipo de cliente: Espaço de Locação e Aluguel de Espaços (eventos, locações diversas).
+
+Trabalhos realizados:
+
+Auditoria SEO detalhada.
+
+Correções técnicas on-site.
+
+Remoção de malwares.
+
+Definição de arquitetura de conteúdo (páginas, categorias, hierarquia de serviços).
+
+Refatoração de copy com foco em locação de espaços, conversão e SEO.
+
+Resultado (números que podem ser usados):
+
+Aumento substancial no desempenho orgânico no Google Search Console, com crescimento superior a 300% em impressões e/ou cliques após as correções e refatorações.
+
+3.3. PLMX – SEO para site de softwares Siemens
+
+Tipo de cliente: site focado em softwares Siemens (segmento tecnológico/industrial, B2B).
+
+Trabalhos realizados:
+
+Auditoria SEO completa.
+
+Correções técnicas críticas.
+
+Remoção de malwares.
+
+Arquitetura de conteúdo focada em produtos/soluções Siemens.
+
+Refatoração de copy com foco em clareza, autoridade técnica e geração de leads B2B.
+
+Resultado:
+
+Crescimento orgânico acima de 300% no Search Console após as correções técnicas e a reestruturação de conteúdo.
+
+3.4. Mangini Russo Advogados – clusterização e arquitetura SEO
+
+Tipo de cliente: escritório de advocacia multidisciplinar.
+
+Trabalhos realizados:
+
+Consultoria de SEO estratégica.
+
+Clusterização de conteúdo por áreas do Direito.
+
+Definição da arquitetura inicial do site para SEO (distribuição de páginas, categorias e conteúdos pilar).
+
+Resultado (qualitativo):
+
+Maior clareza temática para o Google.
+
+Base sólida para fortalecimento de presença orgânica em múltiplas áreas jurídicas.
+
+3.5. B20 Conteúdo Digital – parceria e produção de conteúdo
+
+Tipo de cliente/parceiro: agência B20 Conteúdo Digital, agência parceira de quem herdei boa parte do aprendizado prático.
+
+Trabalhos realizados:
+
+Produção de conteúdo para blog.
+
+Otimização on-page e estruturação de headings.
+
+Apoio na construção de sinal de autoridade via conteúdo otimizado.
+
+Resultado (qualitativo):
+
+Conteúdo alinhado à estratégia de SEO da agência.
+
+Melhora de base on-page para escalar tráfego orgânico.
+
+Modelo de estrutura interna de cada case:
+
+H1: “Case de Sucesso: [Cliente] – [descrição curta do projeto]”.
+
+H2: “Visão geral do cliente”.
+
+H2: “Desafios iniciais em SEO”.
+
+H2: “Diagnóstico e auditoria SEO”.
+
+H2: “Implementação: o que foi feito na prática” com H3 para: Técnica, Conteúdo, Segurança (quando houver malwares), UX/Conversão.
+
+H2: “Resultados e próximos passos”.​
+
+4. Página Sobre em /sobre/
+Ajustar/criar a página Sobre com foco em E-E-A-T e na MarkSaint SEO:
+
+H1: “Sobre a MarkSaint SEO e Marco Antonio Claro Santos”.
+
+Seções (H2):
+
+“Quem é Marco Antonio Claro Santos”
+
+Citar formação em Filosofia pela PUC-SP e como isso contribui para análise crítica, pensamento estruturado e tomada de decisão em SEO.
+
+“O que a MarkSaint SEO faz”
+
+Descrever serviços principais: auditoria técnica, correções críticas, arquitetura de conteúdo, SEO para B2B e negócios locais.
+
+“Abordagem e metodologia de SEO”
+
+Explicar que o trabalho une diagnóstico técnico, pesquisa de intenção de busca, arquitetura de informação e otimização contínua guiada por Search Console e Analytics.
+
+“Segmentos e tipos de projetos atendidos”
+
+Citar e-commerce, locação de espaços, tecnologia/softwares, advocacia, agências parceiras.​
+
+5. Seção de Blog e artigos otimizados
+Configurar /blog/ como hub de conteúdo SEO, com:
+
+H1: “Blog da MarkSaint SEO – SEO e Estratégia de Conteúdo”.
+
+Cada artigo deve:
+
+Ter um H1 único com a palavra-chave principal.
+
+Organizar os tópicos com H2 e H3 em hierarquia semântica, sem pular níveis.
+
+Responder claramente à intenção de busca, mirando snippets e People Also Ask.​
+
+Sugestão de primeiros artigos (pode criar rascunhos otimizados):
+
+“Como uma auditoria SEO revela oportunidades escondidas no seu site”.
+
+“Arquitetura de conteúdo para agências e negócios locais: passo a passo”.
+
+“SEO para escritórios de advocacia: estrutura de clusters que gera leads qualificados”.
+
+“Remoção de malwares e SEO: por que segurança técnica é pré-requisito para crescer no orgânico”.​
+
+6. Boas práticas técnicas e SEO on-page
+Apenas um H1 por página; H2 e H3 usados de forma lógica.
+
+Titles e metas otimizados com palavra-chave + benefício, sem duplicação entre páginas.
+
+URLs limpas, curtas, em minúsculas e com hífens.
+
+Links internos conectando:
+
+Home ↔ Sobre, Serviços, Cases, Blog.
+
+Cases ↔ serviços relacionados e formulário/CTA.
+
+Artigos ↔ cases e serviços (sempre de forma contextual).​
+
+7. Publicação a partir do ZIP
+Usar o .zip atual como base (HTML, CSS, JS, imagens).
+
+Reorganizar as pastas segundo a estrutura de diretórios acima e corrigir caminhos de assets.
+
+Garantir que a home esteja em / com o index.html correto, sem links quebrados, e que todas as novas páginas (Sobre, Serviços, Cases, Blog, Cases individuais) estejam acessíveis pelo menu ou seções de destaque.​
+
+Se alguma limitação técnica do arquivo .zip impedir a aplicação literal destas instruções, adotar a solução mais próxima possível mantendo: subpastas hierárquicas, boa semântica HTML e foco em SEO para a MarkSaint SEO.​
+
